@@ -1,0 +1,23 @@
+.list-item-jq {
+  background-color: white;
+  transition: background-color 2s;
+}
+
+.shade {
+  background-color: red;
+}
+
+ul {
+  font-size: 20px;
+}
+
+input {
+  text-align: center;
+  background-color: #f1ecec;
+  height: 18px;
+  font-size: 15px;
+}
+
+.navbar {
+  display: inline-block;
+}
